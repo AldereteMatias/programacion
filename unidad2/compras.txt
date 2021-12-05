@@ -1,3 +1,5 @@
 verduras
 leche
 pan
+huevos
+cebollas
