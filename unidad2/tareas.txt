@@ -7,3 +7,4 @@ ladrillos
 ventanas
 marcos
 puerta y bisagras
+colocar puerta
