@@ -5,3 +5,5 @@ huevos
 cebollas
 papas
 banana
+sandia
+frutilla

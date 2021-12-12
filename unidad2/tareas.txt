@@ -6,3 +6,4 @@ arena
 ladrillos
 ventanas
 marcos
+puerta y bisagras
